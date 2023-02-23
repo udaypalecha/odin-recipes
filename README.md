@@ -1,2 +1,3 @@
-# odin-recipes
-Project: Recipes | The Odin Project
+# Project: Recipes | The Odin Project
+Welcome, Odinsons!\
+Thou shalt feast thy eyes upon thee Brutally designed Asgardian Recipe Book!

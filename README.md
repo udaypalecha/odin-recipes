@@ -1,3 +1,3 @@
 # Asgardian Recipe Book
-## Welcome, Odinsons!\
+## Welcome, Odinsons!
 Thou shalt feast thy eyes upon thee Brutally designed Asgardian Recipe Book!

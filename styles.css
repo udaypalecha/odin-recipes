@@ -2,3 +2,20 @@ body{
   color: #d1d5db;
   background-color: #111827;
 }
+
+#asgard{
+  height: auto;
+  width: 600px;
+}
+
+.lists{
+  font-size: 20px;
+  font-weight: 500;
+  color: #4b5563;
+}
+a:link, a:visited{
+  color: #a9792b;
+}
+a:active, a:hover{
+  text-decoration: none;
+}

@@ -1,7 +1,12 @@
 body{
   font-family: Inter,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  margin-top: 40px;
   color: #d1d5db;
   background-color: #111827;
+}
+
+.center-align{
+  text-align: center;
 }
 
 #asgard{
@@ -13,6 +18,7 @@ body{
   font-size: 1.125rem; /* Font size relative to browser font size => 16*1.125 = 18 */
   font-weight: 500;
   color: #4b5563;
+  margin-left: 330px;
 }
 a:link, a:visited{
   color: #a9792b;
